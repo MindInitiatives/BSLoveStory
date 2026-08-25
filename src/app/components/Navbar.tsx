@@ -52,7 +52,7 @@ export default function Navbar() {
     <>
       <header className={`nav${solid ? " nav--solid" : ""}`}>
         <a href="#home" className="nav__mark" onClick={(e) => handleNavClick(e, "#home")}>
-          O &amp; O
+          B &amp; S
         </a>
 
         <nav className="nav__links" aria-label="Sections">
