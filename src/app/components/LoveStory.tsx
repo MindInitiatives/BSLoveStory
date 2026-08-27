@@ -64,15 +64,19 @@ Months before I met Blessing, I had prayed about finding the person God had prep
 
 What I didn't know was that the story had already started. 😂
 
-Before I officially met Blessing, I was at an event taking pictures while she was anchoring. 📸 I took her picture that day without knowing who she was or what role she would eventually play in my life.
+Before we officially met, we were already at the same event. Blessing was anchoring, and I was there as a guest. At some point, I decided to take pictures of a few people at the event just to have some memories from the day. 📸 One of those pictures happened to be Blessing.
 
-Months later, she was invited to minister at a programme hosted by my local church, and I was the pianist backing her. 🎹
+I didn't know her. I didn't know her name. I certainly didn't know she would eventually become my wife.
 
-After the programme, I walked over to say hello. One conversation became many, and before long, we were spending hours talking.
+Months later, she was invited to minister at a programme hosted by my local church, and I was the pianist backing her. 🎹 After the programme, I walked over to say hello.
 
-The funniest part? I only realised later that I had already photographed her months before we met.
+One conversation became many, and before long, we were spending hours talking.
 
-God really had the introduction sorted out before we even knew we were being introduced. 😂❤️`;
+Then came the funny part. 😂
+
+I eventually realised that I had already taken her picture months before we ever properly met.
+
+God really had the introduction sorted out before we even knew we were being introduced. ❤️`;
 
 const stephenFullExtra = `Our story feels less like something we planned and more like something God quietly orchestrated from the very beginning. ❤️
 
@@ -80,21 +84,21 @@ Months before I met Blessing, I had prayed about finding the person God had prep
 
 What I didn't know was that the story had already started. 😂
 
-Before I officially met Blessing, I was at an event taking pictures. She was anchoring, calling guests up to the stage one after another, while I was somewhere behind the camera doing my job. 📸
+Before we officially met, we were already at the same event. Blessing was anchoring the programme, and I was there as a guest. At some point during the event, I decided to take pictures of a few of the guests, just to keep some memories from the day. 📸
 
-I took her picture that day.
+One of those pictures was Blessing.
 
-No conversation. No introduction. Nothing.
+I didn't know her. I didn't know her name. I didn't have any idea that I had just taken a picture of the woman who would eventually become my wife.
 
-Just a photographer taking pictures at an event and a woman who had absolutely no idea that the person behind the camera would eventually become her husband. 😂
+It was just a random picture from an ordinary day.
 
-Months later, she was invited to minister at a programme hosted by my local church. And there I was again, this time behind the piano. 🎹
+Months later, she was invited to minister at a programme hosted by my local church. I was the pianist backing her that day. 🎹
 
-I was backing her as she ministered, and something about her caught my attention. The way she carried herself, her warmth and the way she connected with the room. I found myself paying attention.
+This time, I actually noticed her.
 
-After the programme, I decided to walk over and say hello.
+There was something about the way she carried herself and ministered that caught my attention. I found myself paying attention, and after the programme, I decided to walk over and say hello.
 
-I won't lie, I had to gather some courage. 😂
+I'll admit, I had to gather some courage first. 😂
 
 We had a simple conversation, but I knew I wanted to talk to her again.
 
@@ -106,21 +110,23 @@ Somehow, conversations that were supposed to be short turned into hours. We coul
 
 Eventually, I asked her out on a date.
 
-The more I got to know her, the more I realised there was something different about what was developing between us. I wasn't just enjoying our conversations anymore. I was genuinely falling for her.
+The more I got to know her, the more I realised that this was becoming something real. I wasn't just enjoying our conversations anymore. I was genuinely falling for her.
 
 Then came the plot twist.
 
-One day, while going through my phone, I came across a picture and suddenly realised...
+While going through my phone one day, I came across a picture and suddenly realised...
 
 Wait.
 
-I had already photographed this woman months ago. 😂📸
+I had already taken this woman's picture months ago. 😂📸
 
-I had literally taken her picture before I knew her name.
+I had taken her picture before I knew her name.
 
-Looking back, that was one of those moments that made me realise just how interesting God's timing can be. What seemed like two completely unrelated encounters had already been connected.
+And she had absolutely no idea.
 
-From the event where I unknowingly photographed her, to the church programme where I played the piano while she ministered, to that first conversation, and then everything that followed, the pieces just kept falling into place.
+Looking back, that moment made me appreciate our story even more. What seemed like two completely unrelated encounters had already been connected long before we knew it.
+
+From being at the same event without meeting, to seeing each other again at church, to that first conversation, to all the hours we spent talking, everything seemed to fall into place naturally.
 
 We weren't planning any of it.
 
@@ -130,7 +136,7 @@ And now, I get to call that woman my wife. ❤️
 
 Blessing, I am grateful for you, for our story, and for every unexpected turn that brought us here.
 
-I love you so much, Sweets. ❤️`;
+I love you so much, My Iyanu. ❤️`;
 
 function StoryCard({
   name,
