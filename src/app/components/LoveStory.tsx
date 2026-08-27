@@ -58,79 +58,79 @@ I am grateful for the way our story unfolded, for all the unexpected little deta
 
 I love you so much, Ifemi. ❤️`;
 
-const stephenShort = `I had prayed about finding my person, and after a while, I decided to stop overthinking it and just focus on serving God.
+const stephenShort = `Our story feels less like something we planned and more like something God quietly orchestrated from the very beginning. ❤️
 
-Little did I know, the story had already started. 😂
+Months before I met Blessing, I had prayed about finding the person God had prepared for me. After a while, I decided to stop trying to figure out when it would happen and simply focus on serving God and trusting His timing.
 
-Months before I officially met Blessing, I was at an event taking pictures. She was the anchor, moving guests on and off the stage, and I was behind the camera doing my job. 📸
+What I didn't know was that the story had already started. 😂
 
-I took pictures of her without knowing who she was. She had no idea who I was either.
+Before I officially met Blessing, I was at an event taking pictures while she was anchoring. 📸 I took her picture that day without knowing who she was or what role she would eventually play in my life.
 
-Fast-forward to another programme at my local church. Blessing was invited to minister, and I was the pianist backing her. 🎹
+Months later, she was invited to minister at a programme hosted by my local church, and I was the pianist backing her. 🎹
 
-This time, we actually met.
+After the programme, I walked over to say hello. One conversation became many, and before long, we were spending hours talking.
 
-After the programme, I walked over to say hello. One conversation turned into many, and before long, I found myself looking forward to every conversation with her.
+The funniest part? I only realised later that I had already photographed her months before we met.
 
-The funniest part? I only realised days later that I had already photographed her months before we met.
+God really had the introduction sorted out before we even knew we were being introduced. 😂❤️`;
 
-God really said, "Let me introduce you two... but slowly." 😂❤️`;
+const stephenFullExtra = `Our story feels less like something we planned and more like something God quietly orchestrated from the very beginning. ❤️
 
-const stephenFullExtra = `I had prayed about finding my person, and for a while, I was very interested in knowing exactly when that prayer would be answered. 😂
+Months before I met Blessing, I had prayed about finding the person God had prepared for me. I held onto that expectation for a while, but eventually decided to stop trying to figure out when it would happen and simply focus on serving God and trusting His timing.
 
-Eventually, I decided to relax, stop trying to figure out the timing, and just focus on serving God.
+What I didn't know was that the story had already started. 😂
 
-Little did I know, the story had already started.
-
-Months before I officially met Blessing, I was at an event taking pictures. She was the anchor, calling guests up to the stage one after another, while I was behind the camera doing what I came to do. 📸
+Before I officially met Blessing, I was at an event taking pictures. She was anchoring, calling guests up to the stage one after another, while I was somewhere behind the camera doing my job. 📸
 
 I took her picture that day.
 
 No conversation. No introduction. Nothing.
 
-Just one photographer taking pictures at an event and one woman completely unaware that the photographer would eventually become her husband. 😂
+Just a photographer taking pictures at an event and a woman who had absolutely no idea that the person behind the camera would eventually become her husband. 😂
 
-Then came another programme, this time at my local church. Blessing was invited to minister, and I was the pianist backing her. 🎹
+Months later, she was invited to minister at a programme hosted by my local church. And there I was again, this time behind the piano. 🎹
 
-This was different.
+I was backing her as she ministered, and something about her caught my attention. The way she carried herself, her warmth and the way she connected with the room. I found myself paying attention.
 
-I noticed her.
+After the programme, I decided to walk over and say hello.
 
-There was something about her presence, the way she ministered and carried herself, that caught my attention. After the programme, I decided to walk over and say hello.
+I won't lie, I had to gather some courage. 😂
 
-And yes, I was nervous. 😂
-
-We had a simple conversation, exchanged pleasantries, and somehow, that was enough to make me want to talk to her again.
+We had a simple conversation, but I knew I wanted to talk to her again.
 
 So we started talking.
 
-Then we talked some more.
+And then we kept talking.
 
-Then somehow, our "quick" calls started lasting for hours. 😂 We would get on the phone and suddenly realise we had been talking for half the day. Neither of us seemed particularly interested in being the first person to hang up.
+Somehow, conversations that were supposed to be short turned into hours. We could talk about almost anything, and before long, ending the call became harder than starting it. 😂
 
 Eventually, I asked her out on a date.
 
-The more I got to know her, the more I liked what I was discovering. Her heart, her sense of humour, her depth, the way she carried herself. Somewhere along the way, I realised this wasn't just a nice conversation anymore. I was falling for her.
+The more I got to know her, the more I realised there was something different about what was developing between us. I wasn't just enjoying our conversations anymore. I was genuinely falling for her.
 
 Then came the plot twist.
 
-Days into our conversations, I came across a picture in my phone gallery and realised...
+One day, while going through my phone, I came across a picture and suddenly realised...
 
-WAIT.
+Wait.
 
-I had already photographed this woman months ago. 😂😂
+I had already photographed this woman months ago. 😂📸
 
 I had literally taken her picture before I knew her name.
 
-At that point, I had to laugh. Looking back, it felt like God had been dropping little hints into the story long before either of us knew what was happening.
+Looking back, that was one of those moments that made me realise just how interesting God's timing can be. What seemed like two completely unrelated encounters had already been connected.
 
-From a random event, to a church programme, to a piano, to a conversation, to countless hours on the phone... somehow, all the pieces came together.
+From the event where I unknowingly photographed her, to the church programme where I played the piano while she ministered, to that first conversation, and then everything that followed, the pieces just kept falling into place.
 
-And now I get to call that woman my wife. ❤️
+We weren't planning any of it.
 
-God really knows how to write a story.
+God was.
 
-Blessing, thank you for being you. I love you so much, My Iyanu. ❤️`;
+And now, I get to call that woman my wife. ❤️
+
+Blessing, I am grateful for you, for our story, and for every unexpected turn that brought us here.
+
+I love you so much, Sweets. ❤️`;
 
 function StoryCard({
   name,
