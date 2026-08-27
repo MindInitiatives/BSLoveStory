@@ -78,7 +78,7 @@ I eventually realised that I had already taken her picture months before we ever
 
 God really had the introduction sorted out before we even knew we were being introduced. ❤️`;
 
-const stephenFullExtra = `Our story feels less like something we planned and more like something God quietly orchestrated from the very beginning. ❤️
+const stephenFull = `Our story feels less like something we planned and more like something God quietly orchestrated from the very beginning. ❤️
 
 Months before I met Blessing, I had prayed about finding the person God had prepared for me. I held onto that expectation for a while, but eventually decided to stop trying to figure out when it would happen and simply focus on serving God and trusting His timing.
 
@@ -96,7 +96,7 @@ Months later, she was invited to minister at a programme hosted by my local chur
 
 This time, I actually noticed her.
 
-There was something about the way she carried herself and ministered that caught my attention. I found myself paying attention, and after the programme, I decided to walk over and say hello.
+There was something about the way she carried herself and ministered that caught my attention, and after the programme, I decided to walk over and say hello.
 
 I'll admit, I had to gather some courage first. 😂
 
@@ -118,9 +118,7 @@ While going through my phone one day, I came across a picture and suddenly reali
 
 Wait.
 
-I had already taken this woman's picture months ago. 😂📸
-
-I had taken her picture before I knew her name.
+I had already taken this woman's picture months ago, long before I even knew her name. 😂📸
 
 And she had absolutely no idea.
 
@@ -134,7 +132,7 @@ God was.
 
 And now, I get to call that woman my wife. ❤️
 
-Blessing, I am grateful for you, for our story, and for every unexpected turn that brought us here.
+Blessing, You are indeed a blessing and I am grateful for you, for our story, and for every unexpected turn that brought us here.
 
 I love you so much, My Iyanu. ❤️`;
 
@@ -188,7 +186,7 @@ export default function LoveStory() {
 
         <div className="story">
           <StoryCard name="Blessing" short={blessingShort} full={blessingFull} />
-          <StoryCard name="Stephen" short={stephenShort} full={stephenShort + stephenFullExtra} />
+          <StoryCard name="Stephen" short={stephenShort} full={stephenFull} />
         </div>
       </div>
     </section>
