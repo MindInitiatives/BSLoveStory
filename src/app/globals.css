@@ -368,7 +368,7 @@ h1, h2, h3 {
   display: grid;
   align-content: end;
   justify-items: center;
-  padding: 6rem var(--gutter) 4.5rem;
+  padding: 6rem var(--gutter) 2.5rem;
   isolation: isolate;
   overflow: hidden;
 }
