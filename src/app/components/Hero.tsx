@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Countdown from "./Countdown";
 
 export default function Hero() {
   return (
@@ -36,6 +37,8 @@ export default function Hero() {
           We are overjoyed to share this beautiful chapter with you, and grateful to have you by
           our side.
         </p>
+
+        <Countdown />
       </div>
     </section>
   );

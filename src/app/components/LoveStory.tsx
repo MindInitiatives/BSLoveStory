@@ -2,47 +2,135 @@
 
 import { useState } from "react";
 
-const blessingShort = `For the longest time, I assumed I would have to go looking for love. As it turned out, I could not have been more wrong.
+const blessingShort = `At the time, I wasn't looking for a relationship. Dating wasn't even on my mind. But God had already given me a glimpse of what was to come. ❤️
 
-Before I ever met Stephen, I had received a word of my own. I had been told that I would find my husband right at my place of service in the house of God, in the very place where I served him faithfully. I held onto it quietly, never imagining how literally it would come to pass.
+Before I ever met Stephen, I had received a word that I would meet my husband at my place of service in the house of God, right where I was faithfully serving. I held onto that word, not knowing when or how it would happen.
 
-Well, maybe it was not as unexpected as it first felt. My story had quietly started exactly where I had been told it would, long before either of us realised it.`;
+Funny enough, our story had already started without either of us knowing. I was anchoring an event while Stephen was there taking pictures. 📸 He captured moments that day, including me, without either of us knowing that we would eventually become part of each other's story.
 
-const blessingFull = `For the longest time, I assumed I would have to go looking for love. As it turned out, I could not have been more wrong.
+Then, months later, I was invited to minister at a programme hosted by his church. Stephen was the pianist backing me that day. 🎹 After the programme, he came over to say hello.
 
-Before I ever met Stephen, I had received a word of my own. I had been told that I would find my husband right at my place of service in the house of God, in the very place where I served him faithfully. I held onto it quietly, never imagining how literally it would come to pass.
+That simple conversation became the beginning of something neither of us had planned.
 
-Well, maybe it was not as unexpected as it first felt. My story had quietly started exactly where I had been told it would, long before either of us realised it.
+And the funniest part? He had already taken my picture months before we officially met. 😂
 
-You know what they say about never taking meaningful relationships for granted? It is absolutely true, because you never know who God has placed in your life as a destiny helper or, in my case, your forever person.
+Looking back, God really had the whole thing in motion long before we knew it. ❤️`;
 
-Long before I properly knew Stephen, I was anchoring an event, calling guests up to the stage one after another. He was one of the photographers there that day, quietly capturing everyone who came up, though I had no idea at the time that he was also capturing me. Neither of us knew each other yet, and neither of us understood what had already begun.
+const blessingFull = `At the time, I wasn't looking for a relationship. Dating wasn't even on my mind. But God had already given me a glimpse of what was to come. ❤️
 
-The moment that truly mattered came later, when I was invited to minister at a programme hosted by his local church. He was the pianist backing me that day, steady and attentive at the keys, and something about him stayed with me even though I did not think much of it at the time.
+Before I ever met Stephen, I had received a word that I would meet my husband at my place of service in the house of God, right where I was faithfully serving. I held onto that word quietly, without knowing when or how it would happen.
 
-After the programme, he came over to say hi. It felt like an easy, ordinary conversation, warm and unhurried. I had no idea he already had a picture of me from that earlier event tucked away in his phone, waiting to be remembered.
+Funny enough, our story had already started without either of us knowing.
 
-We talked. Then we talked more. Days became weeks, and weeks became something neither of us had planned for but both of us quietly hoped for. Every conversation felt easy, like I had always known him. We would talk round the clock, hour after hour, and neither of us wanted to be the one to hang up first.
+I was anchoring an event, calling guests up to the stage one after another, while Stephen was there taking pictures. 📸 He was simply doing his job, capturing moments from the event. I had no idea who he was, and he had no idea who I was.
 
-Somewhere in the middle of all that, I fell in love. Not the dramatic, overnight kind you see in films, but the quiet kind. The kind that sneaks up on you and then, one day, you look over and realise this person is already home.
+Well... apparently, he had at least seen me because he had taken my picture that day. 😂
 
-When he later told me he had already taken my picture at that earlier event, long before either of us knew what was coming, I understood just how much of this had been written before we ever said a word to each other. I am so grateful for the path that led us here, and I cannot wait to spend the rest of my life choosing him.`;
+Neither of us thought anything of it.
 
-const stephenShort = `Our story feels less like something we planned and more like something God orchestrated from the very beginning.
+Then months later, I was invited to minister at a programme hosted by his local church. And there he was again, this time behind the piano. 🎹
 
-Months before I ever met Blessing, I had prayed about it and received a quiet but clear confirmation that I would meet the person meant for me. I waited for that promise earnestly, probably too earnestly, until I finally let it go and simply gave myself to serving in the house of God, trusting that the timing wasn't mine to control.
+Stephen was the pianist backing me that day. I noticed him, but I still wasn't thinking about relationships or wondering if this was "the one." I was simply there to do what I had been invited to do.
 
-What I didn't know was that God had already started writing the story. Before I officially met Blessing, before I even knew her name, I was at an event where she was the anchor, calling guests up to the stage one after another while I stood by taking their pictures. I had no idea that somewhere in that crowd of faces I was photographing was the woman who would one day become my wife.`;
+After the programme, he came over to say hello. It was a simple, easy conversation. Nothing dramatic. Just two people meeting and getting to know each other.
 
-const stephenFullExtra = `
+Except... that conversation didn't end there. 😂
 
-The real meeting came later, when she was invited to minister at a programme hosted by my local church. I was the church's pianist at the time, and I was the one backing her with the chords as she sang. That was the moment my eyes were truly opened: the word I had received months earlier started resonating in my spirit all over again, refusing to let me look away.
+We started talking, and somehow, we kept talking. What began as getting to know each other turned into hours on the phone. We could talk about almost anything, and before long, hanging up became a little too difficult. ❤️
 
-After the programme, I summoned up the courage to walk over and say hi, though if I'm honest, my first intention was simply to get to know her enough to confirm whether she really was the person I'd been told about. It still hadn't clicked, even then, that I had seen her before. That realisation only hit me days later, when we had already started talking and I stumbled on her picture sitting quietly in my phone gallery. I was stunned.
+Then my Shy Tall Man asked me out on a date.
 
-From there, everything moved with an ease I still can't fully explain. Every conversation felt like we had known each other for years already. We would talk round the clock, hour after hour, neither of us able to bring ourselves to hang up first.
+Somewhere between the conversations, the laughter and getting to know each other, I realised I was falling in love. It wasn't some dramatic, movie-style moment. It happened gradually, in all the little things that made me enjoy having him around.
 
-The rest, as they say, is history, and it has been the most beautiful, fulfilling season of my life since. Blessing is the most wonderful soul I have ever met: pure in heart, selfless, endlessly amazing. I have never once regretted meeting her, and I am so glad, every single day, that I made the right choice.`;
+Then came the plot twist.
+
+Stephen told me that he had actually taken my picture at that earlier event, months before we properly met.
+
+I was like... wait, YOU had already taken my picture?! 😂📸
+
+Looking back, that moment made our story even more special. What seemed like two completely unrelated encounters had somehow been connected all along.
+
+I wasn't looking for love. I wasn't trying to make anything happen. I was simply serving God and living my life, while He was quietly putting the pieces together.
+
+And somehow, those pieces led me to him. ❤️
+
+I am grateful for the way our story unfolded, for all the unexpected little details, and for the man I get to call my husband.
+
+I love you so much, Ifemi. ❤️`;
+
+const stephenShort = `I had prayed about finding my person, and after a while, I decided to stop overthinking it and just focus on serving God.
+
+Little did I know, the story had already started. 😂
+
+Months before I officially met Blessing, I was at an event taking pictures. She was the anchor, moving guests on and off the stage, and I was behind the camera doing my job. 📸
+
+I took pictures of her without knowing who she was. She had no idea who I was either.
+
+Fast-forward to another programme at my local church. Blessing was invited to minister, and I was the pianist backing her. 🎹
+
+This time, we actually met.
+
+After the programme, I walked over to say hello. One conversation turned into many, and before long, I found myself looking forward to every conversation with her.
+
+The funniest part? I only realised days later that I had already photographed her months before we met.
+
+God really said, "Let me introduce you two... but slowly." 😂❤️`;
+
+const stephenFullExtra = `I had prayed about finding my person, and for a while, I was very interested in knowing exactly when that prayer would be answered. 😂
+
+Eventually, I decided to relax, stop trying to figure out the timing, and just focus on serving God.
+
+Little did I know, the story had already started.
+
+Months before I officially met Blessing, I was at an event taking pictures. She was the anchor, calling guests up to the stage one after another, while I was behind the camera doing what I came to do. 📸
+
+I took her picture that day.
+
+No conversation. No introduction. Nothing.
+
+Just one photographer taking pictures at an event and one woman completely unaware that the photographer would eventually become her husband. 😂
+
+Then came another programme, this time at my local church. Blessing was invited to minister, and I was the pianist backing her. 🎹
+
+This was different.
+
+I noticed her.
+
+There was something about her presence, the way she ministered and carried herself, that caught my attention. After the programme, I decided to walk over and say hello.
+
+And yes, I was nervous. 😂
+
+We had a simple conversation, exchanged pleasantries, and somehow, that was enough to make me want to talk to her again.
+
+So we started talking.
+
+Then we talked some more.
+
+Then somehow, our "quick" calls started lasting for hours. 😂 We would get on the phone and suddenly realise we had been talking for half the day. Neither of us seemed particularly interested in being the first person to hang up.
+
+Eventually, I asked her out on a date.
+
+The more I got to know her, the more I liked what I was discovering. Her heart, her sense of humour, her depth, the way she carried herself. Somewhere along the way, I realised this wasn't just a nice conversation anymore. I was falling for her.
+
+Then came the plot twist.
+
+Days into our conversations, I came across a picture in my phone gallery and realised...
+
+WAIT.
+
+I had already photographed this woman months ago. 😂😂
+
+I had literally taken her picture before I knew her name.
+
+At that point, I had to laugh. Looking back, it felt like God had been dropping little hints into the story long before either of us knew what was happening.
+
+From a random event, to a church programme, to a piano, to a conversation, to countless hours on the phone... somehow, all the pieces came together.
+
+And now I get to call that woman my wife. ❤️
+
+God really knows how to write a story.
+
+Blessing, thank you for being you. I love you so much, My Iyanu. ❤️`;
 
 function StoryCard({
   name,
